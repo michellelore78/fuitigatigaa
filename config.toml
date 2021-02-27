@@ -1,0 +1,4 @@
+baseURL = "https://poems-beutytu.vercel.app"
+languageCode = "en-us"
+title = "Poems For Her Beauty"
+theme = "hugo-theme-minos"
